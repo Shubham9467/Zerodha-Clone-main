@@ -112,7 +112,7 @@ Explore the unique features available in this application:
 
 ## 🔗 Demo & Screenshots
 
-- Hosted Link : [Demo](https://zerodha-clone-frontend.vercel.app)
+- 🌐 Hosted Link : [Demo](https://zerodha-clone-frontend.vercel.app)
 - UserName : Demo
 - Password : Demo
 
